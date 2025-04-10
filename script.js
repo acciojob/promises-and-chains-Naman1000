@@ -10,7 +10,7 @@ const form = document.getElementById('voteForm');
 
       // Validation
       if (!name || isNaN(age)) {
-        alert("Please enter valid details.");
+        alert(Please enter valid details.);
         return;
       }
 
